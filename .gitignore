@@ -1,0 +1,12 @@
+# Sekrety - NIGDY nie commitować
+*.token
+*secret*
+*.env
+credentials*
+
+# Systemowe
+.DS_Store
+Thumbs.db
+docs/api-notes.md
+docs/bpmn-diagram.md
+docs/business-overview.md
